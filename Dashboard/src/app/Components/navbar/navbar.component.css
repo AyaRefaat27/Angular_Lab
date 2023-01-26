@@ -1,0 +1,13 @@
+li {
+  margin-right: 5px;
+  margin-left: 200px;
+}
+a {
+  font-size: 20px;
+  font-weight: 600;
+}
+.nav-item a:hover {
+  background-color: bisque;
+  border-radius: 5px;
+  width: max-content;
+}
